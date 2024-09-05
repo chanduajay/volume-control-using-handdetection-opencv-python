@@ -16,3 +16,9 @@
 - **Ctypes** 
 - **comtypes**
 - **pycaw**
+  
+## How to Use and run this project 
+
+1. install modules like numpy , openCV , ctypes, pycaw, comtypes in your laptop
+
+5. ** Prefer VScode for this project**
