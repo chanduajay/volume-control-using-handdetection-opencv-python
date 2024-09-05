@@ -22,3 +22,18 @@
 1. install modules like numpy , openCV , ctypes, pycaw, comtypes in your laptop
 
 5. ** Prefer VScode for this project**
+
+## Screenshots
+
+**Testing 1**
+![Screenshot 2024-09-05 213852](https://github.com/user-attachments/assets/652631b1-b79b-4461-b9de-06e4002e742e)
+
+
+**Testing 2**
+
+![Screenshot 2024-09-05 214037](https://github.com/user-attachments/assets/0da0d713-6d1b-4644-8162-859d7aaaba61)
+
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or create a pull request.
