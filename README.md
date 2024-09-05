@@ -8,3 +8,11 @@
 <a href="https://github.com/chanduajay" ><img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
 
 </div>
+
+## Modules Used :
+
+- **OpenCV** 
+- **Numpy**
+- **Ctypes** 
+- **comtypes**
+- **pycaw**
